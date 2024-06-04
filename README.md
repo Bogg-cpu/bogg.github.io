@@ -1,3 +1,2 @@
-uh hello
-you have reached the automated message board of: Bogg-cpu
-to leave a message, press 1
+here's my webpage  
+enjoy
