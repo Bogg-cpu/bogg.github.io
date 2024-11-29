@@ -1,7 +1,7 @@
 # Hello!
 ### Here's my webpage, enjoy!
 
-You may be looking for [these](https://bogg-cpu.github.io/home/main/VMs.md) if you've stumbled here...
+You may be looking for [these](https://bogg-cpu.github.io/home/VMs.html) if you've stumbled here...
 
 Alternatively, jump to their pages here:
 
